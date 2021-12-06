@@ -1,0 +1,9 @@
+*.cmd
+*.o
+*.out
+test.py
+*.so
+*.zip
+*.dat
+*.mod.c
+.vscode
